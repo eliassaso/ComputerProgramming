@@ -13,10 +13,10 @@
 - [DBeaver](https://dbeaver.io/download/)
 - [Github](https://github.com/eliassaso/ComputerProgramming)
 - Variables
-- Operaciones
-- Listas
+- Operations
+- Lists(Arrays)
 - Loops
-- Funciones
-- Clases
-- Objetos
+- Functions
+- Classes
+- Objects
 - DB Connection

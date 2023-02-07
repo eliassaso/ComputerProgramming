@@ -20,3 +20,10 @@
 - Classes
 - Objects
 - DB Connection
+- [Postman](https://www.postman.com/downloads/) 
+
+_ _ _
+![](resources/CRUD.png)
+
+_ _ _
+![](resources/VERBS.png)

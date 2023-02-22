@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(150, 206, 206);
+}
+
+h1 {
+    color: red; 
+    padding-top: 30px; 
+    padding-left: 30px;
+}
+
+#miH1 {
+    color: green !important;
+    padding-bottom: 60px;
+}
+
+.miClase {
+    color: yellow;
+    font-size: large;
+}
